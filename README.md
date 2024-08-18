@@ -31,12 +31,12 @@ To set up and run the project, follow these steps:
 1. **Clone the Repository**:
    
      ```bash
-     git clone https://github.com/AnirudhKaranth/stack-overflow-clone.git
+     git clone https://github.com/DINESH-JUMANI/Stack-Overflow-Clone.git
      ```
 2. **Installation**: Navigate to the project directory and install dependencies for both the client and server:
 
      ```bash
-     cd stackoverflow-clone/client
+     cd Stack-Overflow-Clone/client
      npm install
      cd ../server
      npm install
@@ -49,7 +49,7 @@ To set up and run the project, follow these steps:
 5. **Running the Application**: Start the development server for both the client and server:
 
      ```bash
-     cd stackoverflow-clone/server
+     cd Stack-Overflow-Clone/server
      npm start
      cd ../client
      npm start
